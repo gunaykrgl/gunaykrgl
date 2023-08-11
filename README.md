@@ -1,5 +1,5 @@
 <h3 align="center">Hi there 👋, I'm Günay</h3>
-<h3 align="center">Candidate Data Scientist</h3>
+<h3 align="center">Candidate Software Developer</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gunaykrgl" alt="gunaykrgl" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
