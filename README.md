@@ -1,26 +1,7 @@
-<h3 align="center">Hi there 👋, I'm Günay</h3>
-<h3 align="center">Candidate Software Developer</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gunaykrgl" alt="gunaykrgl" /></a> </p>
+Hi there 👋! I'm Günay, an aspiring software developer with a passion for solving real-world problems. I am currently in the final year of my bacheloratte degree in Electrical and electronics engineering in [Ankara University](https://www.ankara.edu.tr/) with a GPA of 3.18. As a part of my college lectures, I have had the chance of learning basic workings and implementations of several machine learning algorithms (such as K-Nearest neighbors, K-means clustering and Support vector machines) as well as more sophisticated deep learning algorithms (such as artificial neural networks, convolutional neural networks in particular). 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gunaykrgl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gunaykrgl" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gunaykaraoglu21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gunaykaraoglu21" height="30" width="40" /></a>
+Moreover, as a part of these lectures, I have implemented an [U-Net model](https://github.com/gunaykrgl/buildingSegmentation) for building segmentation task (in which building footprints need to be segmented from satellite imagery). In the mentioned task of building segmentation, I have personally written image manipulation functions which are used to generate patches of (256, 256) [according to the required input shape of inmplemented model], by the use of these image manipulation functions, images of all sizes can be segmented seperately and later combined into a single output map. 
 
-</p>
-</p>
+As a final-year project, I am currently implementing an U-Net model for the task of brain tumor segmentation from MRI imagery.
 
-<!--
-**gunaykrgl/gunaykrgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As a personal interest/side hustle, I am also learning about React.js and have made a basic [pomodoro app](https://gunaykrgl.github.io/pomodoro/) with React. The app uses web workers to accurately alert the users at start of work and break sessions. It also keeps track of previous work sessions in local storage and creates a bar chart (with recharts) and a moving average line to show the amount of time worked each day.
